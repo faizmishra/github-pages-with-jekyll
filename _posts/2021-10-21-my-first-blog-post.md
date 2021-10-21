@@ -1,1 +1,5 @@
-This is me figuring out  how to work on github.
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
+
